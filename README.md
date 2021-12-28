@@ -1,9 +1,14 @@
 # toast-ponto-reminder
 Cria lembrete para bater o ponto com notificação do windows em quatro horários:
+
 09:00
+
 12:00
+
 13:00
+
 18:00
+
 
 Para que essa aplicação rode ao inicializar o windows, é só seguir o passo a passo abaixo:
 
