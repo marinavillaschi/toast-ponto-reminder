@@ -11,6 +11,6 @@ Para que essa aplicação rode ao inicializar o windows, é só seguir o passo a
 
 * digite **shell:startup**
 
-* arraste o arquivo python *meu_script.py* para dentro da pasta
+* arraste o arquivo python `meu_script.py` para dentro da pasta
   * se você não precisa do console: altere a extensão do arquivo de *meu_script.py* para *meu_script.pyw*
   * se não: crie `run_my_script.cmd` com `python path\to\your\my_script.py`
