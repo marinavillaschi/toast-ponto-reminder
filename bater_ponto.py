@@ -28,7 +28,7 @@ for i in ["09:00", "12:00", "13:00", "18:00"]:
     schedule.every().thursday.at(i).do(bater_ponto)
     schedule.every().friday.at(i).do(bater_ponto)
 
-schedule.every().monday.at("18:00:30").do(sextou)
+schedule.every().friday.at("18:00:30").do(sextou)
 
 
 while True:
